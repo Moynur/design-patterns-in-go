@@ -1,0 +1,1 @@
+Repo for the exercises from the course https://www.udemy.com/course/design-patterns-go/
